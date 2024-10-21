@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#099773</color>
+    <color name="Kelly_Green">#18a558</color>
+    <color name="mintgreen">#43b692</color>
+    <color name="darkgreen">#099773</color>
+    <color name="trans">#00FFFFFF</color> <!-- 100% transparent -->
+    <color name="light_green_pastal">#FCFADC</color>
+    <color name="light_green_pastal1">#DDF2D1</color>
+    <color name="light_green_pastal2">#CDEBC5</color>
+    <color name="light_green_pastal3">#BEE3BA</color>
+
+
+
+</resources>
